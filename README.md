@@ -8,7 +8,7 @@ https://sharp-volhard-5aa376.netlify.app/
 
 ## TODOs
 
-[ ] Check plugins for writers
-[ ] Seciroty audit
-[ ] Google perf score.
-[ ] AMP
+* [ ] Check plugins for writers
+* [ ] Seciroty audit
+* [ ] Google perf score.
+* [ ] AMP
