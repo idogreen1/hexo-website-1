@@ -8,6 +8,7 @@ https://sharp-volhard-5aa376.netlify.app/
 
 ## TODOs
 
+* [ ] Check: https://github.com/iTimeTraveler/hexo-theme-hiker as a lead theme
 * [ ] Check plugins for writers
 * [ ] Seciroty audit
 * [ ] Google perf score.

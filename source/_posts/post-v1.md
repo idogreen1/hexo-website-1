@@ -23,4 +23,5 @@ easymde react-markdown react-simplemde-editor \
 ipfs-http-client @emotion/css @openzeppelin/contracts
 An overview of some of these dependencies:
 
-### bla-bla
+### 
+bla-bla
