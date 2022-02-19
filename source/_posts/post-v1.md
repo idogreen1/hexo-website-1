@@ -23,5 +23,14 @@ easymde react-markdown react-simplemde-editor \
 ipfs-http-client @emotion/css @openzeppelin/contracts
 An overview of some of these dependencies:
 
-### 
-bla-bla
+### the fist bla-bla
+
+Collect, monitor, analyze
+and optimize your
+company ESG status
+Imagine one place, one platform, one goal:
+Collecting and monitoring all of your ESG data points across
+the organization, managing and monitoring the data together
+with optimizing and supporting your ESG work processes.
+
+
