@@ -1,6 +1,6 @@
 <header id="header">
 
-	<!-- 背景图模式 -->
+	<!-- back -->
 	<% 	var backgroundTheme;
 		if ((theme.home_background_image.mode == "image" || !theme.home_background_image.mode) && theme.home_background_image.url && theme.home_background_image.url.length > 0){ 
 			backgroundTheme = "IMAGE";
@@ -30,7 +30,7 @@
                     <img id="carousel-img<%= i %>" src="<%- partial('post/urlconvert', {tempUrl: theme.home_background_image.url[i]}) %>">
                   </div>
 
-                  <!-- 自适应大图 -->
+                  <!-- main images -->
                   <script>
                       var img<%= i %> = new Image();
                       var imageTag<%= i %> = document.getElementById("carousel-img<%= i %>");
@@ -106,7 +106,7 @@
       x.scale(pr, pr)
       x.globalAlpha = 0.6
 
-      <!-- 折线Polyline背景 -->
+      <!-- Polyline -->
       <% if (backgroundTheme == "POLYLINE"){ %>
         function i(){
             x.clearRect(0,0,w,h)
@@ -135,7 +135,7 @@
         document.getElementById("intrologo").ontouchstart = i
         i()
 
-      <!-- 多边形trianglify背景 -->
+      <!-- trianglify -->
       <% } else if (backgroundTheme == "TRIANGLIFY") { %>
 		 function redraw(){
 		 	var pattern = Trianglify({
@@ -175,7 +175,7 @@
     </div>
   </div>
 
-  <!-- 自适应主页背景大图 -->
+  <!--  -->
   <% if (backgroundTheme == "IMAGE" && !theme.home_background_image.rolling){ %>
     <script>
         var img = new Image();
