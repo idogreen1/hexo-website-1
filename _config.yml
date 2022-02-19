@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. 
-url: http://esggo.com/
+#url: http://esggo.com/
+url: https://sharp-volhard-5aa376.netlify.app/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
