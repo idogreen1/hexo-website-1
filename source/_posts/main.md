@@ -9,7 +9,8 @@ Collecting and monitoring all of your ESG data points across
 the organization, managing and monitoring the data together
 with optimizing and supporting your ESG work processes.
 
-<button>Contact Us</button>
+<a href="mailto:contact@esggo.com?subject=Ask me about ESGgo" class="button">Contact Us</a>
+
 
 # What is ESG
 
@@ -55,7 +56,8 @@ ESGgo is the ONE-STOP-SHOP ESG technology tool for enterprises with internal ESG
 
 A B2B enterprise software that helps the sustainability or ESG executives, legal, compliance, HR and communication teams sync the ESG data collection, monitor and analyze the companies’ ESG status.
 
-<button>Contact Us</button>
+<a href="mailto:contact@esggo.com?subject=Ask me about ESGgo" class="button">Contact Us</a>
+
 
 ## ESGgo Team
 ESGgo is a technology company with a global, highly experienced technology and business team from Google, McKinsey, Netflix, Bank of America Merrill Lynch, and communications, intelligence, and 8200 units of the Israeli Defense Forces, with a global ESG team. A diverse team that is excited about making the world a better place by supporting enterprises to achieve their ESG goals.
